@@ -20,7 +20,7 @@ Durante seu desenvolvimento foram exercitados diversos conhecimentos, deixo list
 A aplicação apresenta um site de uma **barbearia**, uma _tela de um navegador_ apresentando **um site de uma barbearia mostrando uma página de produtos, com um cabeçalho contendo a logo, e seção de navegação entre as páginas, um produtos em si, um rodapé contendo logo e copyright**.
 
   <p align="center">
-  <img src="" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
+  <img src="imagens/Animação2.gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
 </p>
 
 ## :hammer: Tecnologias usadas
