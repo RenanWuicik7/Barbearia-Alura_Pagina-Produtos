@@ -31,4 +31,4 @@ Neste projeto foram usadas as seguintes tecnologias:
 > Linguagem/Editor [Sublime Text](https://www.sublimetext.com/)
   
   ## Projeto:
-**[CLIQUE AQUI PARA UTILIZAR O PROJETO](https://renanalura7.github.io/Barbearia_Alura_Parte_2/)** 😉
+**[CLIQUE AQUI PARA UTILIZAR O PROJETO](https://renanwuicik7.github.io/Barbearia_Alura_Parte_2/)** 😉
